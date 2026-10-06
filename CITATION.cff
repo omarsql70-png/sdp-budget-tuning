@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "sdp-budget-tuning: Budget-controlled comparison of HHO and DE for SVM-based software defect prediction"
+authors:
+  - family-names: "Al-Tarawneh"
+    given-names: "Mejhem Yousef"
+    affiliation: "Department of Software Engineering, College of Information Technology, Amman Arab University, Amman, Jordan"
+    email: "m.tarawneh@aau.edu.jo"
+  - family-names: "Al-Mrayat"
+    given-names: "Omar Isam"
+    affiliation: "Department of Software Engineering, College of Information Technology, Amman Arab University, Amman, Jordan"
+    email: "o.mrayat@aau.edu.jo"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-06"
+preferred-citation:
+  type: conference-paper
+  title: "Do Metaheuristics Really Improve Software Defect Prediction? A Budget-Fair Empirical Study"
+  authors:
+    - family-names: "Al-Tarawneh"
+      given-names: "Mejhem Yousef"
+    - family-names: "Al-Mrayat"
+      given-names: "Omar Isam"
+  year: 2026
+  notes: "Under review. Update venue, pages and DOI after publication."
